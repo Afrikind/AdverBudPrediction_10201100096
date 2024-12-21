@@ -1,8 +1,14 @@
-numpy==1.21.0
-pandas==1.3.0
-matplotlib==3.4.2
-seaborn==0.11.1
-plotly==4.14.3
-statsmodels==0.12.2
-scikit-learn==0.24.2
-xgboost==1.4.2
+numpy>=1.24.0          # Compatible with Python 3.12
+pandas>=1.5.0          # Ensures modern features and Python 3.12 compatibility
+matplotlib>=3.7.0      # Updated for better visualization and compatibility
+streamlit>=1.24.0      # Latest stable release to leverage new features
+seaborn>=0.12.0        # Modern version for advanced plotting
+plotly>=5.16.0         # Updated for interactive visualizations
+statsmodels>=0.14.0    # Enhanced statistical modeling and Python 3.12 support
+scikit-learn>=1.3.0    # Newer machine learning algorithms and compatibility
+xgboost>=1.7.0         # Latest version for gradient boosting models
+
+
+
+
+
